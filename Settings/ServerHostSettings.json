@@ -1,0 +1,18 @@
+﻿{
+  "Name": "dajiba",
+  "Description": "dajida",
+  "Port": 27015,
+  "QueryPort": 27016,
+  "MaxConnectedUsers": 10,
+  "MaxConnectedAdmins": 4,
+  "ServerFps": 30,
+  "SaveName": "world1",
+  "Password": "",
+  "Secure": true,
+  "ListOnMasterServer": true,
+  "AutoSaveCount": 20,
+  "AutoSaveInterval": 600,
+  "GameSettingsPreset": "",
+  "AdminOnlyDebugEvents": true,
+  "DisableDebugEvents": false
+}
